@@ -124,4 +124,4 @@ Onde são armazenados,
 
 E como são visualizados (BI, relatórios, dashboards).
 
-Use diagramas simples (pode usar Mermaid ou ASCII).
+Use diagramas simples.
